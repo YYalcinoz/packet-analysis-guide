@@ -9,7 +9,6 @@ Personal notes, cheat sheets, and references built while learning **packet analy
 | File | Description |
 |------|-------------|
 | [`wireshark-cheatsheet.md`](./wireshark-cheatsheet.md) | Display filters, capture filters, security-focused filters, shortcuts |
-| [`notes.txt`](./notes.txt) | Raw notes from labs and practice sessions |
 
 ---
 
