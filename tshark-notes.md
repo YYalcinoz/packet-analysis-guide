@@ -312,5 +312,3 @@ Both tools use the same display filter syntax. The difference is where you apply
 > **Key difference:** tshark is scriptable and works over SSH on remote servers. Wireshark is better for interactive investigation of a capture.
 
 ---
-
-*Last updated: April 2026*
