@@ -455,5 +455,3 @@ tshark -r capture.pcap -q -z dns,tree
 | 4444 | TCP | — | Common Metasploit reverse shell default |
 
 ---
-
-*Last updated: April 2026*
